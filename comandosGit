@@ -1,17 +1,17 @@
-rm: canviara el nombre a un archivo.
+--canviara el nombre a un archivo. 
+mv
+--cambiar el nombre a un archivo
+rm 
+
+--para clonar un repositorio
+git clone [porner el nombre del respositorio
 
 
-
-
-
-git clone: clonar una repositorio
-
-
-git fetch Y git pull: it a buscar y jalar  para bajar los cambios que se han hecho en el repositorio remote y el pull para actualiazar los cambios
+git fetch Y git pull: ir a buscar y jalar, para bajar los cambios que se han hecho en el repositorio remote y el pull para actualiazar los cambios
 bajados
 
 
 
-
-git pull origen master: para subir acambios al repositorio
+---para subir acambios al repositorio
+git pull origen master [nombre del repositorio.
 
