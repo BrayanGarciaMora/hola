@@ -6,11 +6,11 @@ rm
 --para clonar un repositorio
 git clone [porner el nombre del respositorio
 
+-- ir a buscar y jalar  para bajar los cambios que se han hecho en el repositorio remot
+git fetch 
 
-git fetch Y git pull: ir a buscar y jalar, para bajar los cambios que se han hecho en el repositorio remote y el pull para actualiazar los cambios
-bajados
-
-
+-- para actualiazar los cambios
+git pull:
 
 ---para subir acambios al repositorio
 git pull origen master [nombre del repositorio.
